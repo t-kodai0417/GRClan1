@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'keifont';
+  src: url('https://raw.githubusercontent.com/t-kodai0417/GRClan1/main/bibouroku/atsumorikeif.ttf') format('truetype');
+}
+
+h1 {
+  font-family: 'keifont';
+}
+
+h3 {
+  font-family: 'keifont';
+}
